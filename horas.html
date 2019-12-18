@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  
+  <!--  Meta  -->
+  <meta charset="UTF-8" />
+  <title>Horas</title>
+  
+  <!--  Styles  -->
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body onload="atualizar()"> <!-- Chama a funcao do arqvo js -->
+  <div class="quadro">
+    <header>
+      <h1> HORAS</h1> 
+    </header>
+      <section>
+        <div id="relogio"> O relógio fica aqui</div>
+         <br>
+          <img id="imagem" src="fofura.png" alt="fofura"> 
+            <!--nao coloquei o alt= "" pra ver o que acontece: nao rola a imagem-->
+    
+          <p id="mensagem"> Tomara que hoje seja um bom dia. </p> 
+            <br>
+      </section>
+
+      <button id="botao" onClick='festa()'> Começar o Happy hour!</button>   
+    </div>
+  <footer> 
+    <p> &copy; Gesiane: Praticando. 2019.</p>
+  </footer>
+ 
+  
+  <!-- Scripts -->
+  <script src="hora.js"></script>
+</body>
+</html>
