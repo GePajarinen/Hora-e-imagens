@@ -1,7 +1,7 @@
 # Relógio e imagens
 
 Prática em JavaScript.   
-A figuta e a mensagem são atulizadas de acordo com o horário:   
+A figura e a mensagem são atulizadas de acordo com o horário:   
 - 6h e 8h    "Acorda, xuxin!"   
 - 11h e 14h  "Hora de comer!"   
 - 17h e 21h  "Happy hour!"   
