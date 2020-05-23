@@ -12,7 +12,7 @@ A figura e a mensagem são atulizadas de acordo com o horário:
 Fora destes horários, exibem-se imagem e mensagem padrão.   
 Se acionado o botão "Happy Hour", executa a imagem correspondete ao Happy Hour.   
 
-O código foi desenvolvido em Visual Studio Code, mas pode ser acessado no Codepen.io: 
+O código foi desenvolvido em Visual Studio Code, mas pode ser acessado no Codepen.io:    
 [Codepen.io @Gesiane: Horas](https://codepen.io/Gesiane/full/xxbgzKK)     
 
 Seguem algumas imagens do programa em execução:     
