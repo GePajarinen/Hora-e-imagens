@@ -2,7 +2,6 @@
 
 Prática em JavaScript, HTML e CSS.
 
-**Como funciona:** 
 A figura e a mensagem são atualizadas de acordo com o horário:   
 - 6h e 8h "Acorda, xuxin!"
 - 11h e 14h "Hora de comer!"
