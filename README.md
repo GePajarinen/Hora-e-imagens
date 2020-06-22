@@ -19,7 +19,6 @@ Seguem algumas imagens do programa em execução:
 <p align="center">
  <kbd>
   <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/bomdia.png?raw=true">   
-  <br>.gif
  </kbd>
 </p>
 
@@ -27,7 +26,6 @@ Seguem algumas imagens do programa em execução:
 <p align="center">
  <kbd>
   <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/horadorango.png?raw=true">   
-  <br>.gif
  </kbd>
 </p>
 
@@ -35,15 +33,13 @@ Seguem algumas imagens do programa em execução:
 <p align="center">
  <kbd>
   <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/happyhour.png?raw=true">   
-  <br>.gif
  </kbd>
 </p>
 
 ### 21h       "Hora de mimi!"   
 <p align="center">
  <kbd>
-  <img src=" https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boanoite.png?raw=true">   
-  <br>.gif
+  <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boanoite.png?raw=true">   
  </kbd>
 </p>
 
@@ -51,7 +47,6 @@ Seguem algumas imagens do programa em execução:
 <p align="center">
  <kbd>
   <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boatarde.png?raw=true ">   
-  <br>.gif
  </kbd>
 </p>
 
