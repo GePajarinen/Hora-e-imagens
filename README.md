@@ -2,15 +2,14 @@
 
 Prática em JavaScript, HTML e CSS.
 
-**Como funciona:** 
-A figura e a mensagem são atulizadas de acordo com o horário:   
+As figuras e as mensagens são atualizadas de acordo com o horário:   
 - 6h e 8h "Acorda, xuxin!"
 - 11h e 14h "Hora de comer!"
 - 17h e 21h "Happy hour!"
 - '>'21h "Hora de mimi!" 
 
 Fora destes horários, exibem-se imagem e mensagem padrão.   
-Se acionado o botão "Happy Hour", executa a imagem correspondete ao Happy Hour.   
+Se acionado o botão "Happy Hour", executa a imagem correspondente ao Happy Hour.   
 
 O código foi desenvolvido em Visual Studio Code, mas pode ser acessado no Codepen.io:    
 [Codepen.io @Gesiane: Horas](https://codepen.io/Gesiane/full/xxbgzKK)     
