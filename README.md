@@ -16,17 +16,42 @@ O código foi desenvolvido em Visual Studio Code, mas pode ser acessado no Codep
 
 Seguem algumas imagens do programa em execução:     
 ### 6h e 8h    "Acorda, xuxin!"   
-![Code running](https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/bomdia.png?raw=true)  
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/bomdia.png?raw=true">   
+  <br>.gif
+ </kbd>
+</p>
 
 ### 11h e 14h  "Hora de comer!"   
-![Code running](https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/horadorango.png?raw=true)  
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/horadorango.png?raw=true">   
+  <br>.gif
+ </kbd>
+</p>
 
 ### 17h e 21h  "Happy hour!"   
-![Code running](https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/happyhour.png?raw=true)  
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/happyhour.png?raw=true">   
+  <br>.gif
+ </kbd>
+</p>
 
 ### 21h       "Hora de mimi!"   
-![Code running](https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boanoite.png?raw=true)   
+<p align="center">
+ <kbd>
+  <img src=" https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boanoite.png?raw=true">   
+  <br>.gif
+ </kbd>
+</p>
 
 ### Imagem e mensagem padrão   
-![Code running](https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boatarde.png?raw=true)   
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Relogio-e-imagens/blob/master/pics/boatarde.png?raw=true ">   
+  <br>.gif
+ </kbd>
+</p>
 
