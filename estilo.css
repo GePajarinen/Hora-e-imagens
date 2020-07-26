@@ -1,11 +1,12 @@
+
 body{
     background-color: #FFFF00;
+   
 }
 .quadro {
     align-items: center; /* nao funciona*/
     width: 50%;
-    max-width: 960px;
-    margin: 50px auto;
+    margin: 20px auto 0px auto;
     text-align: center;
     background-color: rgba(105, 105, 105, 0.5);
     padding-top: 5px;
@@ -27,6 +28,7 @@ h1{
 
 #imagem{
     max-width: 90%;
+    margin-top: 10px;
 }
 #mensagem{
     font-size: 180%;
@@ -46,7 +48,7 @@ button{
 
 
 footer{
-    font-size: 10px;
+    font-size: 12px;
     font-style: italic;
-    text-align: right;
+    text-align: center;
 }
