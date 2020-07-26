@@ -1,6 +1,7 @@
 
 body{
     background-color: #FFFF00;
+    margin: auto;
    
 }
 .quadro {
@@ -29,9 +30,11 @@ h1{
 #imagem{
     max-width: 90%;
     margin-top: 10px;
+    height: 253px;
 }
 #mensagem{
     font-size: 180%;
+    margin: 20px 10px 20px 10px;
 }
 
 button{
